@@ -17,6 +17,22 @@ public class Escaping {
         System.out.println(message1);
         runComparingStringsExample();
 
+        String fullName = "Dana Wyatt";
+        int length = fullName.length();
+        System.out.println(length);
+
+        String username = " danaw ";
+        username = username.trim();
+        System.out.println(username);
+
+
+        String trackingCode = "USA-12981-Y-22";
+        char hasShipped = trackingCode.charAt(10);
+        System.out.println(hasShipped);
+
+        int hyphenPosition = trackingCode.indexOf("-");
+        System.out.println(hyphenPosition);
+
 
 
 
