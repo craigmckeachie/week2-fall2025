@@ -6,8 +6,19 @@ public class ClassExample {
         Car car1 = new Car();
         car1.setMake("Nissan");
         car1.setModel("Altima");
+        car1.display();
 
-        System.out.println(car1.getMake() + " " + car1.getModel());
+
+        Car car2 = new Car();
+        car2.setMake("Kia");
+        car2.setModel("Sorento");
+        car2.display();
+
+
 
     }
+
+
+
+
 }

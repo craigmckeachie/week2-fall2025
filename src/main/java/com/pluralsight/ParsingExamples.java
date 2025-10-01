@@ -17,5 +17,7 @@ public class ParsingExamples {
         String userInput = "10/17/2022";
         LocalDate birthDay = LocalDate.parse(userInput, formatter);
         System.out.println(birthDay.getDayOfWeek());
+
+
     }
 }

@@ -19,4 +19,9 @@ public class Car {
     public void setModel(String model) {
         this.model = model;
     }
+
+    public void display() {
+        System.out.println(this.getMake() + " " + this.getModel());
+    }
+
 }
