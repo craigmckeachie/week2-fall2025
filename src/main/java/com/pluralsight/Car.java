@@ -21,7 +21,13 @@ public class Car {
     }
 
     public void display() {
+        doSomething();
         System.out.println(this.getMake() + " " + this.getModel());
     }
+
+    private void doSomething(){
+
+    }
+
 
 }
