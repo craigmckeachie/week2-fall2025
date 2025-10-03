@@ -1,6 +1,6 @@
 package com.pluralsight;
 
-public class ArrayExamples {
+public class ArrayExample {
 
     public static void main(String[] args) {
         int[] numbers = {54,77,88,99,12,83};
