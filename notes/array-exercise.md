@@ -7,7 +7,7 @@ Pull one number out into a variable
 Print the element in the variable
 Lastly, try printing an element without creating a variable to hold it temporarily
 
-## Exercise 1
+## Exercise 2
 Create an array of strings (maybe student first name from our class).
 Pull one string out into a variable
 use the index of the element and subscript syntax (students[3])
