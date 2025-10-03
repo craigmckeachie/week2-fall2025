@@ -10,12 +10,9 @@ public class ArrayForLoopExample {
             System.out.println(currentNumber);
         }
 
-       // int is the data type for one element in the array
-      //currentNumber is the name for one element or item in the array, you get to name it, it should be singular
-      //:
-      //  array/list (plural)
-//        for (int currentNumber: numbers) {
-//            System.out.println(currentNumber);
+        //syntax
+//        for (initialization; condition; other) {
+//            // code
 //        }
     }
 }
